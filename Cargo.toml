@@ -1,0 +1,8 @@
+[package]
+name = "radv-foreign-queue-corruption"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ash = { package = "jay-ash", version = "0.21.0" }
+png = "0.18"
